@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8EF1D6BB-42B9-84C1-9199-65EC8F37D4CF}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="152b89ce-ec1c-46a4-9af2-fb9217e9a84c" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PhotonFusion/BasicSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="9" Column="44" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
